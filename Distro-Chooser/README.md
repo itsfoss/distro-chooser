@@ -1,1 +1,1 @@
-#Distro Chooser
+#Distro-Chooser
