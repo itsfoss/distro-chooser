@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 
 /* Carousel base class */
 .carousel {
   margin-bottom: 0rem;
-=======
-/* CUSTOMIZE THE CAROUSEL, copied from Bootstrap's carousel example since I have no time/imagination to do stuff on my own
--------------------------------------------------- */
-
-/* Carousel base class */
-.carousel {
-  margin-bottom: 4rem;
->>>>>>> 490f884b2177061b5775885db3b60077e39a4b1b
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -44,7 +35,6 @@
   line-height: 1;
   letter-spacing: -.05rem;
 }
-<<<<<<< HEAD
 ol.carousel-indicators {
    position: absolute;
    bottom: 20px;
@@ -73,9 +63,6 @@ ol.carousel-indicators li {
 ol.carousel-indicators li.active {
    background: white;
 }
-=======
-
->>>>>>> 490f884b2177061b5775885db3b60077e39a4b1b
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
