@@ -13,3 +13,5 @@ Simple tool that recommends Linux distributions based on the user's preference
 
 ### For Deployment Integrated with wordpress:-
   https://www.templatemonster.com/blog/integrate-static-html-wordpress/
+  
+## license
